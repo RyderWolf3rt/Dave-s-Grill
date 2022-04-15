@@ -1,0 +1,31 @@
+.top{
+    text-align: center;
+  
+}
+h3{
+    color: rebeccapurple;
+}
+.break{
+    text-align: left;
+}
+p{
+    display: inline-block;
+    vertical-align: top;
+}
+.food{
+    text-align: center;
+    font-size: 50pt;
+    color: teal;
+}
+h1{
+    color: tomato;
+}
+.breakfast{
+    background-color: yellowgreen;
+}
+.NAV{
+    text-align: center;
+}
+.lunch{
+    background-color: rgb(255, 227, 71);
+}
